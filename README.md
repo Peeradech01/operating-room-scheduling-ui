@@ -40,7 +40,7 @@
 ระบบถูก Deploy บน Streamlit Community Cloud
 โดยสามารถเข้าใช้งานได้ทันทีผ่านเบราว์เซอร์
 
-👉 **[คลิกเพื่อเข้าใช้งานระบบจำลองการจัดตารางเวลาห้องผ่าตัด](https://operating-room-scheduling-ui.streamlit.app/)**
+👉 **[คลิกเพื่อเข้าใช้งานระบบจำลองการจัดตารางเวลาห้องผ่าตัด](https://operating-room-scheduling.streamlit.app/)**
 
 ### 💻 2. รันบนเครื่องส่วนตัว
 
